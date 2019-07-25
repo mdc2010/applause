@@ -9,9 +9,11 @@ To run this project:
 
 3)Examples of get calls(you can either curl from the command line or use postman)
 
- curl -X GET 'http://localhost:8080/applause/testers/bugs?country=US'
- curl -X GET 'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4'
- curl -X GET 'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4'
- curl -X GET 'http://localhost:8080/applause/testers/bugs?device=iPhone 4&device=iPhone 4S&country=US'
+To curl from the comand line use curl -X GET 'get request url'
+
+'http://localhost:8080/applause/testers/bugs?country=US',
+'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4',
+'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4',
+'http://localhost:8080/applause/testers/bugs?device=iPhone 4&device=iPhone 4S&country=US'
 
 
