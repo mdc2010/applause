@@ -11,9 +11,9 @@ To run this project:
 
 To curl from the comand line use curl -X GET 'get request url'
 
-'http://localhost:8080/applause/testers/bugs?country=US',
-'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4',
-'http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4',
-'http://localhost:8080/applause/testers/bugs?device=iPhone 4&device=iPhone 4S&country=US'
+1) http://localhost:8080/applause/testers/bugs?country=US,
+2) http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4
+3) http://localhost:8080/applause/testers/bugs?country=US&device=iPhone 4
+4) http://localhost:8080/applause/testers/bugs?device=iPhone 4&device=iPhone 4S&country=US
 
 
